@@ -9,24 +9,21 @@
 
 ---
 
-**Grupo:** #6
+**Grupo:** #10 (Individual)
 
 ---
 
 ## **Propósito**
 
-Este repositorio contiene las tareas prácticas del curso **Base de Datos I**, desarrolladas por el equipo de trabajo como parte de la evaluación del semestre.
+Este repositorio contiene las tareas prácticas del curso **Base de Datos I**, desarrolladas como parte de la evaluación del semestre.
 
 Cada carpeta corresponde a una de las tareas solicitadas en clase.
 
 ---
 
-## **Miembros del Equipo**
+## **Estudiante**
 
-- Líder: Sara Palacio Zapata
-- Integrante: Yuli Tatiana Blanco Nieto
-- Integrante: Juan David Restrepo Bedoya
-- Integrante: Julián Velásquez Salas
+- Sara Palacio Zapata
 
 ---
 
@@ -58,45 +55,14 @@ El diseño está pensado para ser coherente, escalable y preparado para su trans
 
 ---
 
-## 👥 Equipo de Desarrollo
+## 👩‍💻 Desarrollado por
 
-Somos un equipo comprometido con el análisis y diseño de sistemas de información, aplicando los fundamentos de bases de datos para resolver un problema real de nuestra comunidad.
+### Sara Palacio Zapata
 
----
-
-### 👩‍💻 Sara Palacio Zapata
-
-📌 Programa: Tecnología en Desarrollo de Software  
+📌 Programa: Tecnología en Desarrollo de Software
 📧 Correo: sara.palacio522@pascualbravo.edu.co
 
-![Foto Integrante 1](https://drive.google.com/thumbnail?id=1S8lwRf32_VdPNZES5ZDPWUPP-NWpIgwH&sz=w1000)
-
----
-
-### 👩‍💻 Yuli Tatiana Blanco Nieto
-
-📌 Programa: Tecnología en Desarrollo de Software  
-📧 Correo: yuli.blanco941@pascualbravo.edu.co
-
-![Foto Integrante 2](https://drive.google.com/thumbnail?id=1SvHNzFA01AtzDmW7KNdkCDdAJ0g6tPKa&sz=w1000)
-
----
-
-### 👨‍💻 Juan David Restrepo Bedoya
-
-📌 Programa: Tecnología en Desarrollo de Software  
-📧 Correo: cjuan.restrepo051@pascualbravo.edu.co
-
-![Foto Integrante 3](https://drive.google.com/thumbnail?id=1TDLbslAtQo7D92v8xAcTZxuH1pUyaJ5V&sz=w1000)
-
----
-
-### 👨‍💻 Julián Velásquez Salas
-
-📌 Programa: Tecnología en Desarrollo de Software  
-📧 Correo: julian.velasquez380@pascualbravo.edu.co
-
-![Foto Integrante 4](https://drive.google.com/thumbnail?id=1nLnb8Ul-YUlgjNPMGY0KOqsaONODlzQ3&sz=w1000)
+![Foto](https://drive.google.com/thumbnail?id=1S8lwRf32_VdPNZES5ZDPWUPP-NWpIgwH&sz=w1000)
 
 ---
 
