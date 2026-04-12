@@ -9,7 +9,7 @@
 
 ---
 
-**Grupo:** #10 (Individual)
+**Grupo:** #11
 
 ---
 
@@ -24,6 +24,7 @@ Cada carpeta corresponde a una de las tareas solicitadas en clase.
 ## **Estudiante**
 
 - Sara Palacio Zapata
+- Julián Velásquez Salas
 
 ---
 
