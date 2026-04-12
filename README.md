@@ -66,5 +66,12 @@ El diseño está pensado para ser coherente, escalable y preparado para su trans
 
 ---
 
+### 👨‍💻 Julián Velásquez Salas
+
+📌 Programa: Tecnología en Desarrollo de Software  
+📧 Correo: julian.velasquez380@pascualbravo.edu.co
+
+![Foto Integrante 4](https://drive.google.com/thumbnail?id=1nLnb8Ul-YUlgjNPMGY0KOqsaONODlzQ3&sz=w1000)
+
 ⭐ Proyecto académico – Bases de Datos I  
 Institución Universitaria Pascual Bravo
